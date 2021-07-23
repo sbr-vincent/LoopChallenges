@@ -15,7 +15,7 @@ for(var i = 100; i > 0; i--){
 console.log("------------")
 
 // Print the sequence
-for(var i = 4; i > 3.6; i - 1.5){
+for (var i = 4; i > (-3.6); i -= 1.5) {
     console.log(i);
 }
 console.log("------------")
