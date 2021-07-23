@@ -15,9 +15,8 @@ for(var i = 100; i > 0; i--){
 console.log("------------")
 
 // Print the sequence
-var arr = [4,2.5,1,-0.5, -2, -3.5];
-for(var i = 0; i < arr.length; i++){
-    console.log(arr[i]);
+for(var i = 4; i > 3.6; i - 1.5){
+    console.log(i);
 }
 console.log("------------")
 
